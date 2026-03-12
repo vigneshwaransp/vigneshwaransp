@@ -1,83 +1,71 @@
-## Hi there 👋 It's me Vicky
+## Hi there 👋 It's me Vicky (Tamil Kumaran)
 
-Computer Science Engineering Student  
-Full Stack Web Developer | MERN Stack Learner  
+CSE Student | MERN Stack Developer  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Currently working on **Creative Web Projects & MERN Stack Applications**
-- 🌱 Learning **React, Node.js, DSA, and System Design**
-- 💡 Interested in **AI tools, Web Development, and Modern UI**
-- 🎯 Goal: Become a **Top Software Engineer**
+- 🔭 Currently building **creative websites**
+- 🌱 Learning **MERN Stack + DSA**
+- 💻 Interested in **Full Stack Development & AI tools**
 - ⚡ Fun fact: I love building **cool animated websites**
 
 ---
 
-# 🌐 Portfolio
-🔗 Add your portfolio here  
-`https://your-portfolio-link.com`
+### 🌐 Connect with me
 
----
-
-# 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)  
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter)
+<p align="left">
+<a href="https://github.com/vigneshwaransp"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://leetcode.com/u/vigneshwaransp/"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-<img height="50" src="https://img.icons8.com/color/48/python.png"/>
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-<img height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
+<p align="left">
+
+<img src="https://img.icons8.com/color/48/python.png"/>
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/react-native.png"/>
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+
+</p>
 
 ---
 
-### Frontend Development
-<img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
-<img height="50" src="https://img.icons8.com/color/48/react-native.png"/>
+# ⚙️ Tools I Use
 
----
+<p align="left">
 
-### Backend Development
-<img height="50" src="https://img.icons8.com/color/48/nodejs.png"/>
-<img height="50" src="https://img.icons8.com/color/48/express-js.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/color/48/github.png"/>
+<img src="https://img.icons8.com/color/48/figma--v1.png"/>
 
----
-
-### Database
-<img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="50" src="https://img.icons8.com/color/48/mongodb.png"/>
-
----
-
-### Tools I Use
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img height="50" src="https://img.icons8.com/color/48/git.png"/>
-<img height="50" src="https://img.icons8.com/color/48/github.png"/>
-<img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true)
+![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshwaransp&theme=tokyonight&show_icons=true)
 
 ---
 
-# 🔥 GitHub Activity Graph
+# 🔥 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)](https://github.com)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaransp&theme=github-dark)](https://github.com/vigneshwaransp)
 
 ---
 
-# 🧠 Coding Practice
+# 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito)](https://leetcode.com/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshwaransp?theme=dark&font=Nunito)](https://leetcode.com/u/vigneshwaransp/)
