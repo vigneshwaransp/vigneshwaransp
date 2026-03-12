@@ -49,6 +49,7 @@ CSE Student | MERN Stack Developer
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/github.png"/>
 <img src="https://img.icons8.com/color/48/figma--v1.png"/>
+<img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </p>
 
