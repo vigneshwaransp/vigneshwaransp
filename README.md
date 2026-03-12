@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Vicky (Tamil Kumaran)
+## Hi there 👋 It's me Vicky
 
-CSE Student | MERN Stack Developer  
+CSE Student | MERN Stack Developer | DS & ML ENTHUSIAST
 
 <img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
