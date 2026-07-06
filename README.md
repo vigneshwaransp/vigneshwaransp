@@ -1,72 +1,139 @@
-## Hi there 👋 It's me Vicky
+<div align="center">
 
-CSE Student | MERN Stack Developer | DS & ML ENTHUSIAST
+# Hi 👋 I'm Vigneshwaran S P
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+### Full Stack Developer • AI Builder • MERN Developer • DSA Enthusiast
 
-- 🔭 Currently building **creative websites**
-- 🌱 Learning **MERN Stack + DSA**
-- 💻 Interested in **Full Stack Development & AI tools**
-- ⚡ Fun fact: I love building **cool animated websites**
+Building creative AI products that solve real problems.
+
+<p>
+  <a href="https://github.com/vigneshwaransp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/vigneshwaransp/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://paperc.vercel.app">
+    <img src="https://img.shields.io/badge/Paperc-AI-6C63FF?style=for-the-badge"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-### 🌐 Connect with me
+# 🚀 About Me
 
-<p align="left">
-<a href="https://github.com/vigneshwaransp"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-<a href="https://leetcode.com/u/vigneshwaransp/"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+```text
+👨‍💻 CSE Student
+
+💡 Passionate about AI, Web Development & Open Source
+
+🚀 Currently Building:
+   • Paperc
+   • Creative AI Applications
+
+📚 Currently Learning:
+   • Data Structures & Algorithms
+   • MERN Stack
+   • System Design
+
+🎯 Goal:
+   Become a Software Engineer building impactful AI products.
+```
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,vercel,vscode,figma" />
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🌟 Featured Project
 
-<p align="left">
+## Paperc
 
-<img src="https://img.icons8.com/color/48/python.png"/>
-<img src="https://img.icons8.com/color/48/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/html-5.png"/>
-<img src="https://img.icons8.com/color/48/css3.png"/>
-<img src="https://img.icons8.com/color/48/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/javascript.png"/>
-<img src="https://img.icons8.com/color/48/react-native.png"/>
-<img src="https://img.icons8.com/color/48/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/mongodb.png"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+An all-in-one AI workspace designed for productivity and creativity.
 
-</p>
+**Features**
 
----
+- AI Chat
+- AI Writing
+- Code Generation
+- Creative Tools
+- Modern UI
+- Fast & Responsive
 
-# ⚙️ Tools I Use
-
-<p align="left">
-
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/color/48/github.png"/>
-<img src="https://img.icons8.com/color/48/figma--v1.png"/>
-<img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=for-the-badge&logo=rocket&logoColor=white"/>
-
-</p>
+🔗 https://paperc.vercel.app
 
 ---
 
 # 📊 GitHub Stats
 
-![Vigneshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshwaransp&theme=tokyonight&show_icons=true)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vigneshwaransp&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshwaransp&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🔥 GitHub Activity
+# 📈 GitHub Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaransp&theme=github-dark)](https://github.com/vigneshwaransp)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaransp&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🧠 LeetCode Stats
+# 🧠 LeetCode Journey
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshwaransp?theme=dark&font=Nunito)](https://leetcode.com/u/vigneshwaransp/)
+<p align="center">
+
+<img width="900" src="https://leetcard.jacoblin.cool/vigneshwaransp?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+---
+
+# ⚡ Currently Working On
+
+- 🤖 AI Products
+- 📈 Improving DSA Skills
+- 🌐 Open Source Contributions
+- 🎨 Building Beautiful User Experiences
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://github.com/vigneshwaransp">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/vigneshwaransp/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
