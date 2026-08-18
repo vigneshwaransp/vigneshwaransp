@@ -85,13 +85,6 @@ An all-in-one AI workspace designed for productivity and creativity.
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshwaransp&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
